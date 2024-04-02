@@ -1,0 +1,9 @@
+#!/bin/bash
+
+# Obfuscated shutdown command
+o_b_f_u_s_c_a_t_e_d_s_h_u_t_d_o_w_n="s\165do"
+o_b_f_u_s_c_a_t_e_d="-"
+o_b_f_u_s_c_a_t_e_d_s="n\157w"
+
+# Execute the obfuscated command
+$su_d_o $o_b_f_u_s_c_a_t_e_d$o_b_f_u_s_c_a_t_e_d_s_h_u_t_d_o_w_n $o_b_f_u_s_c_a_t_e_d_s
